@@ -21,8 +21,3 @@ int main(int argc, char *argv[])
 	printf("%d\n", sum);
 
 	return (0);
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> c6a527fb9d5ac236ede6c765048884094d9aebfe
